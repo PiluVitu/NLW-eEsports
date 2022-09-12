@@ -1,5 +1,5 @@
-# Template-HTML-CSS-JS-Basic
+# NLW eEsports 
 
-Template para aplicações simples em HTML - CSS - JS
+Repositório da minha aplicação NLW da trilha Explorer
 
 [Application](https://google.com)
