@@ -2,7 +2,7 @@
 
 Repositório da minha aplicação NLW da trilha Explorer
 
-[Application](https://google.com)
+[Application](https://piluvitu.github.io/NLW-eEsports/)
 
 ---
 
